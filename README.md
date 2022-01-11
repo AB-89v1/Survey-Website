@@ -2,13 +2,12 @@
 #### Video Demo:  https://youtu.be/6fp8tGjPisY
 #### Description:
 
-The project I have chosen as my final project for CS50 is a website I have been working on for about 5 months,
+The project I have chosen as my final project for CS50 is a website I developed over 5 months,
 built to support a survey panel business serving the cannabis industry. The site is written in html, css, and php
 for back-end communication with my SQL database, which I manage through phpMyAdmin. I am using Wordpress hosting
 for my site, so much of the design is inherited through the theme I have selected. However, I have created a "child theme"
 in order to have more control over the back-end design and functionality.
 
-A working test version of the site can be found at [here](www.survey-buds.com). The [sign up/registration process](www.survey-buds.com/sign-up) can be tried out if desired.
 
 ## SURVEY PANELS 101
 
